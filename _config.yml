@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "goldstine's blog"
+name: "mpp"
 # Short bio or description (displayed in the header)
-description: "个人技术公众号：Goldstine  分享编程资源 | 学习路线"
+description: "自己尝试"
 
 #
 # Flags below are optional
@@ -47,11 +47,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: goldstine
-  email: 15797899690@163.com
+  zhihu: 无
+  email: 3176841751@qq.com
   facebook:
   flickr:
-  github: goldstine 
+  github: ziyirenshen 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
